@@ -1,0 +1,26 @@
+|top
+clk => clk.IN2
+D => D.IN3
+q_a <= d_latch:gated.q_output
+q_b <= flip_flop:positive.q_output
+q_c <= flip_flop:negative.q_output
+
+
+|top|d_latch:gated
+clk => q_output$latch.LATCH_ENABLE
+D => q_output$latch.DATAIN
+q_output <= q_output$latch.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top|flip_flop:positive
+clk => q_output~reg0.CLK
+D => q_output~reg0.DATAIN
+q_output <= q_output~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+
+|top|flip_flop:negative
+clk => q_output~reg0.CLK
+D => q_output~reg0.DATAIN
+q_output <= q_output~reg0.DB_MAX_OUTPUT_PORT_TYPE
+
+

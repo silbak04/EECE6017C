@@ -1,0 +1,9 @@
+vendor_name = ModelSim
+source_file = 1, /home/pwner/rs_latch/rs_latch.v
+source_file = 1, /home/pwner/rs_latch/rs_latch_tb.v
+source_file = 1, /home/pwner/rs_latch/db/rs_latch.cbx.xml
+design_name = rs_latch
+instance = comp, \S~I , S, rs_latch, 1
+instance = comp, \clk~I , clk, rs_latch, 1
+instance = comp, \R~I , R, rs_latch, 1
+instance = comp, \q_output~I , q_output, rs_latch, 1

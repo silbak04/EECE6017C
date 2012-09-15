@@ -1,0 +1,1290 @@
+# Current time Mon Sep 10 03:43:53 2012
+# ModelSim Stack Trace
+# Program = vsim
+# Id = "10.0d"
+# Version = "2012.01"
+# Date = "Jan 18 2012"
+# Platform = linuxpe
+# 0    0xf77d0430: '<unknown (@0xf77d0430)>'
+# 1    0xf75f6d59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 2    0xf75ee196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 3    0xf75ee251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 4    0x0839878e: '<unknown (@0x839878e)>'
+# 5    0x0839af83: '<unknown (@0x839af83)>'
+# 6    0x0805e7c6: '<unknown (@0x805e7c6)>'
+# End of Stack Trace
+
+
+# Current time Mon Sep 10 03:43:53 2012
+# ModelSim Stack Trace
+# Program = vsim
+# Id = "10.0d"
+# Version = "2012.01"
+# Date = "Jan 18 2012"
+# Platform = linuxpe
+# 0    0xf77d0430: '<unknown (@0xf77d0430)>'
+# 1    0xf75f6d59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 2    0xf75ee196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 3    0xf75ee251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 4    0x08398879: '<unknown (@0x8398879)>'
+# 5    0xf75f851a: '_secure_getenv + 0x10a' in '/lib32/libc.so.6'
+# 6    0xf75f857a: 'exit + 0x2a' in '/lib32/libc.so.6'
+# 7    0x08398c82: '<unknown (@0x8398c82)>'
+# 8    0x0839b9b8: '<unknown (@0x839b9b8)>'
+# 9    0xf77d040b: '<unknown (@0xf77d040b)>'
+# 10   0xf75f6d59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 11   0xf75ee196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 12   0xf75ee251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 13   0x0839878e: '<unknown (@0x839878e)>'
+# 14   0x0839af83: '<unknown (@0x839af83)>'
+# 15   0x0805e7c6: '<unknown (@0x805e7c6)>'
+# End of Stack Trace
+
+
+# Current time Mon Sep 10 03:52:23 2012
+# ModelSim Stack Trace
+# Program = vsim
+# Id = "10.0d"
+# Version = "2012.01"
+# Date = "Jan 18 2012"
+# Platform = linuxpe
+# 0    0xf7705430: '<unknown (@0xf7705430)>'
+# 1    0xf752bd59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 2    0xf7523196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 3    0xf7523251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 4    0x0839878e: '<unknown (@0x839878e)>'
+# 5    0x0839af83: '<unknown (@0x839af83)>'
+# 6    0x0805e7c6: '<unknown (@0x805e7c6)>'
+# End of Stack Trace
+
+
+# Current time Mon Sep 10 03:52:23 2012
+# ModelSim Stack Trace
+# Program = vsim
+# Id = "10.0d"
+# Version = "2012.01"
+# Date = "Jan 18 2012"
+# Platform = linuxpe
+# 0    0xf7705430: '<unknown (@0xf7705430)>'
+# 1    0xf752bd59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 2    0xf7523196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 3    0xf7523251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 4    0x08398879: '<unknown (@0x8398879)>'
+# 5    0xf752d51a: '_secure_getenv + 0x10a' in '/lib32/libc.so.6'
+# 6    0xf752d57a: 'exit + 0x2a' in '/lib32/libc.so.6'
+# 7    0x08398c82: '<unknown (@0x8398c82)>'
+# 8    0x0839b9b8: '<unknown (@0x839b9b8)>'
+# 9    0xf770540b: '<unknown (@0xf770540b)>'
+# 10   0xf752bd59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 11   0xf7523196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 12   0xf7523251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 13   0x0839878e: '<unknown (@0x839878e)>'
+# 14   0x0839af83: '<unknown (@0x839af83)>'
+# 15   0x0805e7c6: '<unknown (@0x805e7c6)>'
+# End of Stack Trace
+
+
+# Current time Mon Sep 10 03:54:48 2012
+# ModelSim Stack Trace
+# Program = vsim
+# Id = "10.0d"
+# Version = "2012.01"
+# Date = "Jan 18 2012"
+# Platform = linuxpe
+# 0    0xf7721430: '<unknown (@0xf7721430)>'
+# 1    0xf7547d59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 2    0xf753f196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 3    0xf753f251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 4    0x0839878e: '<unknown (@0x839878e)>'
+# 5    0x0839af83: '<unknown (@0x839af83)>'
+# 6    0x0805e7c6: '<unknown (@0x805e7c6)>'
+# End of Stack Trace
+
+
+# Current time Mon Sep 10 03:54:49 2012
+# ModelSim Stack Trace
+# Program = vsim
+# Id = "10.0d"
+# Version = "2012.01"
+# Date = "Jan 18 2012"
+# Platform = linuxpe
+# 0    0xf7721430: '<unknown (@0xf7721430)>'
+# 1    0xf7547d59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 2    0xf753f196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 3    0xf753f251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 4    0x08398879: '<unknown (@0x8398879)>'
+# 5    0xf754951a: '_secure_getenv + 0x10a' in '/lib32/libc.so.6'
+# 6    0xf754957a: 'exit + 0x2a' in '/lib32/libc.so.6'
+# 7    0x08398c82: '<unknown (@0x8398c82)>'
+# 8    0x0839b9b8: '<unknown (@0x839b9b8)>'
+# 9    0xf772140b: '<unknown (@0xf772140b)>'
+# 10   0xf7547d59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 11   0xf753f196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 12   0xf753f251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 13   0x0839878e: '<unknown (@0x839878e)>'
+# 14   0x0839af83: '<unknown (@0x839af83)>'
+# 15   0x0805e7c6: '<unknown (@0x805e7c6)>'
+# End of Stack Trace
+
+
+# Current time Mon Sep 10 04:03:44 2012
+# ModelSim Stack Trace
+# Program = vsim
+# Id = "10.0d"
+# Version = "2012.01"
+# Date = "Jan 18 2012"
+# Platform = linuxpe
+# 0    0xf777d430: '<unknown (@0xf777d430)>'
+# 1    0xf75a3d59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 2    0xf759b196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 3    0xf759b251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 4    0x0839878e: '<unknown (@0x839878e)>'
+# 5    0x0839af83: '<unknown (@0x839af83)>'
+# 6    0x0805e7c6: '<unknown (@0x805e7c6)>'
+# End of Stack Trace
+
+
+# Current time Mon Sep 10 04:03:44 2012
+# ModelSim Stack Trace
+# Program = vsim
+# Id = "10.0d"
+# Version = "2012.01"
+# Date = "Jan 18 2012"
+# Platform = linuxpe
+# 0    0xf777d430: '<unknown (@0xf777d430)>'
+# 1    0xf75a3d59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 2    0xf759b196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 3    0xf759b251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 4    0x08398879: '<unknown (@0x8398879)>'
+# 5    0xf75a551a: '_secure_getenv + 0x10a' in '/lib32/libc.so.6'
+# 6    0xf75a557a: 'exit + 0x2a' in '/lib32/libc.so.6'
+# 7    0x08398c82: '<unknown (@0x8398c82)>'
+# 8    0x0839b9b8: '<unknown (@0x839b9b8)>'
+# 9    0xf777d40b: '<unknown (@0xf777d40b)>'
+# 10   0xf75a3d59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 11   0xf759b196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 12   0xf759b251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 13   0x0839878e: '<unknown (@0x839878e)>'
+# 14   0x0839af83: '<unknown (@0x839af83)>'
+# 15   0x0805e7c6: '<unknown (@0x805e7c6)>'
+# End of Stack Trace
+
+
+# Current time Mon Sep 10 04:07:25 2012
+# ModelSim Stack Trace
+# Program = vsim
+# Id = "10.0d"
+# Version = "2012.01"
+# Date = "Jan 18 2012"
+# Platform = linuxpe
+# 0    0xf76e5430: '<unknown (@0xf76e5430)>'
+# 1    0xf750bd59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 2    0xf7503196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 3    0xf7503251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 4    0x0839878e: '<unknown (@0x839878e)>'
+# 5    0x0839af83: '<unknown (@0x839af83)>'
+# 6    0x0805e7c6: '<unknown (@0x805e7c6)>'
+# End of Stack Trace
+
+
+# Current time Mon Sep 10 04:07:25 2012
+# ModelSim Stack Trace
+# Program = vsim
+# Id = "10.0d"
+# Version = "2012.01"
+# Date = "Jan 18 2012"
+# Platform = linuxpe
+# 0    0xf76e5430: '<unknown (@0xf76e5430)>'
+# 1    0xf750bd59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 2    0xf7503196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 3    0xf7503251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 4    0x08398879: '<unknown (@0x8398879)>'
+# 5    0xf750d51a: '_secure_getenv + 0x10a' in '/lib32/libc.so.6'
+# 6    0xf750d57a: 'exit + 0x2a' in '/lib32/libc.so.6'
+# 7    0x08398c82: '<unknown (@0x8398c82)>'
+# 8    0x0839b9b8: '<unknown (@0x839b9b8)>'
+# 9    0xf76e540b: '<unknown (@0xf76e540b)>'
+# 10   0xf750bd59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 11   0xf7503196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 12   0xf7503251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 13   0x0839878e: '<unknown (@0x839878e)>'
+# 14   0x0839af83: '<unknown (@0x839af83)>'
+# 15   0x0805e7c6: '<unknown (@0x805e7c6)>'
+# End of Stack Trace
+
+
+# Current time Mon Sep 10 04:10:31 2012
+# ModelSim Stack Trace
+# Program = vsim
+# Id = "10.0d"
+# Version = "2012.01"
+# Date = "Jan 18 2012"
+# Platform = linuxpe
+# 0    0xf7751430: '<unknown (@0xf7751430)>'
+# 1    0xf7577d59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 2    0xf756f196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 3    0xf756f251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 4    0x0839878e: '<unknown (@0x839878e)>'
+# 5    0x0839af83: '<unknown (@0x839af83)>'
+# 6    0x0805e7c6: '<unknown (@0x805e7c6)>'
+# End of Stack Trace
+
+
+# Current time Mon Sep 10 04:10:31 2012
+# ModelSim Stack Trace
+# Program = vsim
+# Id = "10.0d"
+# Version = "2012.01"
+# Date = "Jan 18 2012"
+# Platform = linuxpe
+# 0    0xf7751430: '<unknown (@0xf7751430)>'
+# 1    0xf7577d59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 2    0xf756f196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 3    0xf756f251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 4    0x08398879: '<unknown (@0x8398879)>'
+# 5    0xf757951a: '_secure_getenv + 0x10a' in '/lib32/libc.so.6'
+# 6    0xf757957a: 'exit + 0x2a' in '/lib32/libc.so.6'
+# 7    0x08398c82: '<unknown (@0x8398c82)>'
+# 8    0x0839b9b8: '<unknown (@0x839b9b8)>'
+# 9    0xf775140b: '<unknown (@0xf775140b)>'
+# 10   0xf7577d59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 11   0xf756f196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 12   0xf756f251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 13   0x0839878e: '<unknown (@0x839878e)>'
+# 14   0x0839af83: '<unknown (@0x839af83)>'
+# 15   0x0805e7c6: '<unknown (@0x805e7c6)>'
+# End of Stack Trace
+
+
+# Current time Mon Sep 10 04:12:29 2012
+# ModelSim Stack Trace
+# Program = vsim
+# Id = "10.0d"
+# Version = "2012.01"
+# Date = "Jan 18 2012"
+# Platform = linuxpe
+# 0    0xf76e9430: '<unknown (@0xf76e9430)>'
+# 1    0xf750fd59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 2    0xf7507196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 3    0xf7507251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 4    0x0839878e: '<unknown (@0x839878e)>'
+# 5    0x0839af83: '<unknown (@0x839af83)>'
+# 6    0x0805e7c6: '<unknown (@0x805e7c6)>'
+# End of Stack Trace
+
+
+# Current time Mon Sep 10 04:12:29 2012
+# ModelSim Stack Trace
+# Program = vsim
+# Id = "10.0d"
+# Version = "2012.01"
+# Date = "Jan 18 2012"
+# Platform = linuxpe
+# 0    0xf76e9430: '<unknown (@0xf76e9430)>'
+# 1    0xf750fd59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 2    0xf7507196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 3    0xf7507251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 4    0x08398879: '<unknown (@0x8398879)>'
+# 5    0xf751151a: '_secure_getenv + 0x10a' in '/lib32/libc.so.6'
+# 6    0xf751157a: 'exit + 0x2a' in '/lib32/libc.so.6'
+# 7    0x08398c82: '<unknown (@0x8398c82)>'
+# 8    0x0839b9b8: '<unknown (@0x839b9b8)>'
+# 9    0xf76e940b: '<unknown (@0xf76e940b)>'
+# 10   0xf750fd59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 11   0xf7507196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 12   0xf7507251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 13   0x0839878e: '<unknown (@0x839878e)>'
+# 14   0x0839af83: '<unknown (@0x839af83)>'
+# 15   0x0805e7c6: '<unknown (@0x805e7c6)>'
+# End of Stack Trace
+
+
+# Current time Mon Sep 10 04:19:34 2012
+# ModelSim Stack Trace
+# Program = vsim
+# Id = "10.0d"
+# Version = "2012.01"
+# Date = "Jan 18 2012"
+# Platform = linuxpe
+# 0    0xf7786430: '<unknown (@0xf7786430)>'
+# 1    0xf75acd59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 2    0xf75a4196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 3    0xf75a4251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 4    0x0839878e: '<unknown (@0x839878e)>'
+# 5    0x0839af83: '<unknown (@0x839af83)>'
+# 6    0x0805e7c6: '<unknown (@0x805e7c6)>'
+# End of Stack Trace
+
+
+# Current time Mon Sep 10 04:19:34 2012
+# ModelSim Stack Trace
+# Program = vsim
+# Id = "10.0d"
+# Version = "2012.01"
+# Date = "Jan 18 2012"
+# Platform = linuxpe
+# 0    0xf7786430: '<unknown (@0xf7786430)>'
+# 1    0xf75acd59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 2    0xf75a4196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 3    0xf75a4251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 4    0x08398879: '<unknown (@0x8398879)>'
+# 5    0xf75ae51a: '_secure_getenv + 0x10a' in '/lib32/libc.so.6'
+# 6    0xf75ae57a: 'exit + 0x2a' in '/lib32/libc.so.6'
+# 7    0x08398c82: '<unknown (@0x8398c82)>'
+# 8    0x0839b9b8: '<unknown (@0x839b9b8)>'
+# 9    0xf778640b: '<unknown (@0xf778640b)>'
+# 10   0xf75acd59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 11   0xf75a4196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 12   0xf75a4251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 13   0x0839878e: '<unknown (@0x839878e)>'
+# 14   0x0839af83: '<unknown (@0x839af83)>'
+# 15   0x0805e7c6: '<unknown (@0x805e7c6)>'
+# End of Stack Trace
+
+
+# Current time Mon Sep 10 11:52:37 2012
+# ModelSim Stack Trace
+# Program = vsim
+# Id = "10.0d"
+# Version = "2012.01"
+# Date = "Jan 18 2012"
+# Platform = linuxpe
+# 0    0xf76f3430: '<unknown (@0xf76f3430)>'
+# 1    0xf7519d59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 2    0xf7511196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 3    0xf7511251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 4    0x0839878e: '<unknown (@0x839878e)>'
+# 5    0x0839af83: '<unknown (@0x839af83)>'
+# 6    0x0805e7c6: '<unknown (@0x805e7c6)>'
+# End of Stack Trace
+
+
+# Current time Mon Sep 10 11:52:37 2012
+# ModelSim Stack Trace
+# Program = vsim
+# Id = "10.0d"
+# Version = "2012.01"
+# Date = "Jan 18 2012"
+# Platform = linuxpe
+# 0    0xf76f3430: '<unknown (@0xf76f3430)>'
+# 1    0xf7519d59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 2    0xf7511196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 3    0xf7511251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 4    0x08398879: '<unknown (@0x8398879)>'
+# 5    0xf751b51a: '_secure_getenv + 0x10a' in '/lib32/libc.so.6'
+# 6    0xf751b57a: 'exit + 0x2a' in '/lib32/libc.so.6'
+# 7    0x08398c82: '<unknown (@0x8398c82)>'
+# 8    0x0839b9b8: '<unknown (@0x839b9b8)>'
+# 9    0xf76f340b: '<unknown (@0xf76f340b)>'
+# 10   0xf7519d59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 11   0xf7511196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 12   0xf7511251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 13   0x0839878e: '<unknown (@0x839878e)>'
+# 14   0x0839af83: '<unknown (@0x839af83)>'
+# 15   0x0805e7c6: '<unknown (@0x805e7c6)>'
+# End of Stack Trace
+
+
+# Current time Mon Sep 10 12:00:44 2012
+# ModelSim Stack Trace
+# Program = vsim
+# Id = "10.0d"
+# Version = "2012.01"
+# Date = "Jan 18 2012"
+# Platform = linuxpe
+# 0    0xf776f430: '<unknown (@0xf776f430)>'
+# 1    0xf7595d59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 2    0xf758d196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 3    0xf758d251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 4    0x0839878e: '<unknown (@0x839878e)>'
+# 5    0x0839af83: '<unknown (@0x839af83)>'
+# 6    0x0805e7c6: '<unknown (@0x805e7c6)>'
+# End of Stack Trace
+
+
+# Current time Mon Sep 10 12:00:44 2012
+# ModelSim Stack Trace
+# Program = vsim
+# Id = "10.0d"
+# Version = "2012.01"
+# Date = "Jan 18 2012"
+# Platform = linuxpe
+# 0    0xf776f430: '<unknown (@0xf776f430)>'
+# 1    0xf7595d59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 2    0xf758d196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 3    0xf758d251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 4    0x08398879: '<unknown (@0x8398879)>'
+# 5    0xf759751a: '_secure_getenv + 0x10a' in '/lib32/libc.so.6'
+# 6    0xf759757a: 'exit + 0x2a' in '/lib32/libc.so.6'
+# 7    0x08398c82: '<unknown (@0x8398c82)>'
+# 8    0x0839b9b8: '<unknown (@0x839b9b8)>'
+# 9    0xf776f40b: '<unknown (@0xf776f40b)>'
+# 10   0xf7595d59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 11   0xf758d196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 12   0xf758d251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 13   0x0839878e: '<unknown (@0x839878e)>'
+# 14   0x0839af83: '<unknown (@0x839af83)>'
+# 15   0x0805e7c6: '<unknown (@0x805e7c6)>'
+# End of Stack Trace
+
+
+# Current time Mon Sep 10 14:49:33 2012
+# ModelSim Stack Trace
+# Program = vsim
+# Id = "10.0d"
+# Version = "2012.01"
+# Date = "Jan 18 2012"
+# Platform = linuxpe
+# 0    0xf77b2430: '<unknown (@0xf77b2430)>'
+# 1    0xf75d8d59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 2    0xf75d0196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 3    0xf75d0251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 4    0x0839878e: '<unknown (@0x839878e)>'
+# 5    0x0839af83: '<unknown (@0x839af83)>'
+# 6    0x0805e7c6: '<unknown (@0x805e7c6)>'
+# End of Stack Trace
+
+
+# Current time Mon Sep 10 14:49:33 2012
+# ModelSim Stack Trace
+# Program = vsim
+# Id = "10.0d"
+# Version = "2012.01"
+# Date = "Jan 18 2012"
+# Platform = linuxpe
+# 0    0xf77b2430: '<unknown (@0xf77b2430)>'
+# 1    0xf75d8d59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 2    0xf75d0196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 3    0xf75d0251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 4    0x08398879: '<unknown (@0x8398879)>'
+# 5    0xf75da51a: '_secure_getenv + 0x10a' in '/lib32/libc.so.6'
+# 6    0xf75da57a: 'exit + 0x2a' in '/lib32/libc.so.6'
+# 7    0x08398c82: '<unknown (@0x8398c82)>'
+# 8    0x0839b9b8: '<unknown (@0x839b9b8)>'
+# 9    0xf77b240b: '<unknown (@0xf77b240b)>'
+# 10   0xf75d8d59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 11   0xf75d0196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 12   0xf75d0251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 13   0x0839878e: '<unknown (@0x839878e)>'
+# 14   0x0839af83: '<unknown (@0x839af83)>'
+# 15   0x0805e7c6: '<unknown (@0x805e7c6)>'
+# End of Stack Trace
+
+
+# Current time Mon Sep 10 14:52:38 2012
+# ModelSim Stack Trace
+# Program = vsim
+# Id = "10.0d"
+# Version = "2012.01"
+# Date = "Jan 18 2012"
+# Platform = linuxpe
+# 0    0xf77b4430: '<unknown (@0xf77b4430)>'
+# 1    0xf75dad59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 2    0xf75d2196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 3    0xf75d2251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 4    0x0839878e: '<unknown (@0x839878e)>'
+# 5    0x0839af83: '<unknown (@0x839af83)>'
+# 6    0x0805e7c6: '<unknown (@0x805e7c6)>'
+# End of Stack Trace
+
+
+# Current time Mon Sep 10 14:52:38 2012
+# ModelSim Stack Trace
+# Program = vsim
+# Id = "10.0d"
+# Version = "2012.01"
+# Date = "Jan 18 2012"
+# Platform = linuxpe
+# 0    0xf77b4430: '<unknown (@0xf77b4430)>'
+# 1    0xf75dad59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 2    0xf75d2196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 3    0xf75d2251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 4    0x08398879: '<unknown (@0x8398879)>'
+# 5    0xf75dc51a: '_secure_getenv + 0x10a' in '/lib32/libc.so.6'
+# 6    0xf75dc57a: 'exit + 0x2a' in '/lib32/libc.so.6'
+# 7    0x08398c82: '<unknown (@0x8398c82)>'
+# 8    0x0839b9b8: '<unknown (@0x839b9b8)>'
+# 9    0xf77b440b: '<unknown (@0xf77b440b)>'
+# 10   0xf75dad59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 11   0xf75d2196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 12   0xf75d2251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 13   0x0839878e: '<unknown (@0x839878e)>'
+# 14   0x0839af83: '<unknown (@0x839af83)>'
+# 15   0x0805e7c6: '<unknown (@0x805e7c6)>'
+# End of Stack Trace
+
+
+# Current time Mon Sep 10 15:20:57 2012
+# ModelSim Stack Trace
+# Program = vsim
+# Id = "10.0d"
+# Version = "2012.01"
+# Date = "Jan 18 2012"
+# Platform = linuxpe
+# 0    0xf7705430: '<unknown (@0xf7705430)>'
+# 1    0xf752bd59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 2    0xf7523196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 3    0xf7523251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 4    0x0839878e: '<unknown (@0x839878e)>'
+# 5    0x0839af83: '<unknown (@0x839af83)>'
+# 6    0x0805e7c6: '<unknown (@0x805e7c6)>'
+# End of Stack Trace
+
+
+# Current time Mon Sep 10 15:20:57 2012
+# ModelSim Stack Trace
+# Program = vsim
+# Id = "10.0d"
+# Version = "2012.01"
+# Date = "Jan 18 2012"
+# Platform = linuxpe
+# 0    0xf7705430: '<unknown (@0xf7705430)>'
+# 1    0xf752bd59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 2    0xf7523196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 3    0xf7523251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 4    0x08398879: '<unknown (@0x8398879)>'
+# 5    0xf752d51a: '_secure_getenv + 0x10a' in '/lib32/libc.so.6'
+# 6    0xf752d57a: 'exit + 0x2a' in '/lib32/libc.so.6'
+# 7    0x08398c82: '<unknown (@0x8398c82)>'
+# 8    0x0839b9b8: '<unknown (@0x839b9b8)>'
+# 9    0xf770540b: '<unknown (@0xf770540b)>'
+# 10   0xf752bd59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 11   0xf7523196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 12   0xf7523251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 13   0x0839878e: '<unknown (@0x839878e)>'
+# 14   0x0839af83: '<unknown (@0x839af83)>'
+# 15   0x0805e7c6: '<unknown (@0x805e7c6)>'
+# End of Stack Trace
+
+
+# Current time Mon Sep 10 15:24:04 2012
+# ModelSim Stack Trace
+# Program = vsim
+# Id = "10.0d"
+# Version = "2012.01"
+# Date = "Jan 18 2012"
+# Platform = linuxpe
+# 0    0xf77b8430: '<unknown (@0xf77b8430)>'
+# 1    0xf75ded59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 2    0xf75d6196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 3    0xf75d6251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 4    0x0839878e: '<unknown (@0x839878e)>'
+# 5    0x0839af83: '<unknown (@0x839af83)>'
+# 6    0x0805e7c6: '<unknown (@0x805e7c6)>'
+# End of Stack Trace
+
+
+# Current time Mon Sep 10 15:24:05 2012
+# ModelSim Stack Trace
+# Program = vsim
+# Id = "10.0d"
+# Version = "2012.01"
+# Date = "Jan 18 2012"
+# Platform = linuxpe
+# 0    0xf77b8430: '<unknown (@0xf77b8430)>'
+# 1    0xf75ded59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 2    0xf75d6196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 3    0xf75d6251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 4    0x08398879: '<unknown (@0x8398879)>'
+# 5    0xf75e051a: '_secure_getenv + 0x10a' in '/lib32/libc.so.6'
+# 6    0xf75e057a: 'exit + 0x2a' in '/lib32/libc.so.6'
+# 7    0x08398c82: '<unknown (@0x8398c82)>'
+# 8    0x0839b9b8: '<unknown (@0x839b9b8)>'
+# 9    0xf77b840b: '<unknown (@0xf77b840b)>'
+# 10   0xf75ded59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 11   0xf75d6196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 12   0xf75d6251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 13   0x0839878e: '<unknown (@0x839878e)>'
+# 14   0x0839af83: '<unknown (@0x839af83)>'
+# 15   0x0805e7c6: '<unknown (@0x805e7c6)>'
+# End of Stack Trace
+
+
+# Current time Mon Sep 10 15:25:36 2012
+# ModelSim Stack Trace
+# Program = vsim
+# Id = "10.0d"
+# Version = "2012.01"
+# Date = "Jan 18 2012"
+# Platform = linuxpe
+# 0    0xf7717430: '<unknown (@0xf7717430)>'
+# 1    0xf753dd59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 2    0xf7535196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 3    0xf7535251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 4    0x0839878e: '<unknown (@0x839878e)>'
+# 5    0x0839af83: '<unknown (@0x839af83)>'
+# 6    0x0805e7c6: '<unknown (@0x805e7c6)>'
+# End of Stack Trace
+
+
+# Current time Mon Sep 10 15:25:36 2012
+# ModelSim Stack Trace
+# Program = vsim
+# Id = "10.0d"
+# Version = "2012.01"
+# Date = "Jan 18 2012"
+# Platform = linuxpe
+# 0    0xf7717430: '<unknown (@0xf7717430)>'
+# 1    0xf753dd59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 2    0xf7535196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 3    0xf7535251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 4    0x08398879: '<unknown (@0x8398879)>'
+# 5    0xf753f51a: '_secure_getenv + 0x10a' in '/lib32/libc.so.6'
+# 6    0xf753f57a: 'exit + 0x2a' in '/lib32/libc.so.6'
+# 7    0x08398c82: '<unknown (@0x8398c82)>'
+# 8    0x0839b9b8: '<unknown (@0x839b9b8)>'
+# 9    0xf771740b: '<unknown (@0xf771740b)>'
+# 10   0xf753dd59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 11   0xf7535196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 12   0xf7535251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 13   0x0839878e: '<unknown (@0x839878e)>'
+# 14   0x0839af83: '<unknown (@0x839af83)>'
+# 15   0x0805e7c6: '<unknown (@0x805e7c6)>'
+# End of Stack Trace
+
+
+# Current time Mon Sep 10 15:26:25 2012
+# ModelSim Stack Trace
+# Program = vsim
+# Id = "10.0d"
+# Version = "2012.01"
+# Date = "Jan 18 2012"
+# Platform = linuxpe
+# 0    0xf7728430: '<unknown (@0xf7728430)>'
+# 1    0xf754ed59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 2    0xf7546196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 3    0xf7546251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 4    0x0839878e: '<unknown (@0x839878e)>'
+# 5    0x0839af83: '<unknown (@0x839af83)>'
+# 6    0x0805e7c6: '<unknown (@0x805e7c6)>'
+# End of Stack Trace
+
+
+# Current time Mon Sep 10 15:26:25 2012
+# ModelSim Stack Trace
+# Program = vsim
+# Id = "10.0d"
+# Version = "2012.01"
+# Date = "Jan 18 2012"
+# Platform = linuxpe
+# 0    0xf7728430: '<unknown (@0xf7728430)>'
+# 1    0xf754ed59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 2    0xf7546196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 3    0xf7546251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 4    0x08398879: '<unknown (@0x8398879)>'
+# 5    0xf755051a: '_secure_getenv + 0x10a' in '/lib32/libc.so.6'
+# 6    0xf755057a: 'exit + 0x2a' in '/lib32/libc.so.6'
+# 7    0x08398c82: '<unknown (@0x8398c82)>'
+# 8    0x0839b9b8: '<unknown (@0x839b9b8)>'
+# 9    0xf772840b: '<unknown (@0xf772840b)>'
+# 10   0xf754ed59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 11   0xf7546196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 12   0xf7546251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 13   0x0839878e: '<unknown (@0x839878e)>'
+# 14   0x0839af83: '<unknown (@0x839af83)>'
+# 15   0x0805e7c6: '<unknown (@0x805e7c6)>'
+# End of Stack Trace
+
+
+# Current time Mon Sep 10 15:27:38 2012
+# ModelSim Stack Trace
+# Program = vsim
+# Id = "10.0d"
+# Version = "2012.01"
+# Date = "Jan 18 2012"
+# Platform = linuxpe
+# 0    0xf770b430: '<unknown (@0xf770b430)>'
+# 1    0xf7531d59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 2    0xf7529196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 3    0xf7529251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 4    0x0839878e: '<unknown (@0x839878e)>'
+# 5    0x0839af83: '<unknown (@0x839af83)>'
+# 6    0x0805e7c6: '<unknown (@0x805e7c6)>'
+# End of Stack Trace
+
+
+# Current time Mon Sep 10 15:27:38 2012
+# ModelSim Stack Trace
+# Program = vsim
+# Id = "10.0d"
+# Version = "2012.01"
+# Date = "Jan 18 2012"
+# Platform = linuxpe
+# 0    0xf770b430: '<unknown (@0xf770b430)>'
+# 1    0xf7531d59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 2    0xf7529196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 3    0xf7529251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 4    0x08398879: '<unknown (@0x8398879)>'
+# 5    0xf753351a: '_secure_getenv + 0x10a' in '/lib32/libc.so.6'
+# 6    0xf753357a: 'exit + 0x2a' in '/lib32/libc.so.6'
+# 7    0x08398c82: '<unknown (@0x8398c82)>'
+# 8    0x0839b9b8: '<unknown (@0x839b9b8)>'
+# 9    0xf770b40b: '<unknown (@0xf770b40b)>'
+# 10   0xf7531d59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 11   0xf7529196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 12   0xf7529251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 13   0x0839878e: '<unknown (@0x839878e)>'
+# 14   0x0839af83: '<unknown (@0x839af83)>'
+# 15   0x0805e7c6: '<unknown (@0x805e7c6)>'
+# End of Stack Trace
+
+
+# Current time Mon Sep 10 15:28:58 2012
+# ModelSim Stack Trace
+# Program = vsim
+# Id = "10.0d"
+# Version = "2012.01"
+# Date = "Jan 18 2012"
+# Platform = linuxpe
+# 0    0xf7758430: '<unknown (@0xf7758430)>'
+# 1    0xf757ed59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 2    0xf7576196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 3    0xf7576251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 4    0x0839878e: '<unknown (@0x839878e)>'
+# 5    0x0839af83: '<unknown (@0x839af83)>'
+# 6    0x0805e7c6: '<unknown (@0x805e7c6)>'
+# End of Stack Trace
+
+
+# Current time Mon Sep 10 15:28:58 2012
+# ModelSim Stack Trace
+# Program = vsim
+# Id = "10.0d"
+# Version = "2012.01"
+# Date = "Jan 18 2012"
+# Platform = linuxpe
+# 0    0xf7758430: '<unknown (@0xf7758430)>'
+# 1    0xf757ed59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 2    0xf7576196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 3    0xf7576251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 4    0x08398879: '<unknown (@0x8398879)>'
+# 5    0xf758051a: '_secure_getenv + 0x10a' in '/lib32/libc.so.6'
+# 6    0xf758057a: 'exit + 0x2a' in '/lib32/libc.so.6'
+# 7    0x08398c82: '<unknown (@0x8398c82)>'
+# 8    0x0839b9b8: '<unknown (@0x839b9b8)>'
+# 9    0xf775840b: '<unknown (@0xf775840b)>'
+# 10   0xf757ed59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 11   0xf7576196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 12   0xf7576251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 13   0x0839878e: '<unknown (@0x839878e)>'
+# 14   0x0839af83: '<unknown (@0x839af83)>'
+# 15   0x0805e7c6: '<unknown (@0x805e7c6)>'
+# End of Stack Trace
+
+
+# Current time Mon Sep 10 15:31:20 2012
+# ModelSim Stack Trace
+# Program = vsim
+# Id = "10.0d"
+# Version = "2012.01"
+# Date = "Jan 18 2012"
+# Platform = linuxpe
+# 0    0xf7794430: '<unknown (@0xf7794430)>'
+# 1    0xf75bad59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 2    0xf75b2196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 3    0xf75b2251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 4    0x0839878e: '<unknown (@0x839878e)>'
+# 5    0x0839af83: '<unknown (@0x839af83)>'
+# 6    0x0805e7c6: '<unknown (@0x805e7c6)>'
+# End of Stack Trace
+
+
+# Current time Mon Sep 10 15:31:21 2012
+# ModelSim Stack Trace
+# Program = vsim
+# Id = "10.0d"
+# Version = "2012.01"
+# Date = "Jan 18 2012"
+# Platform = linuxpe
+# 0    0xf7794430: '<unknown (@0xf7794430)>'
+# 1    0xf75bad59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 2    0xf75b2196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 3    0xf75b2251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 4    0x08398879: '<unknown (@0x8398879)>'
+# 5    0xf75bc51a: '_secure_getenv + 0x10a' in '/lib32/libc.so.6'
+# 6    0xf75bc57a: 'exit + 0x2a' in '/lib32/libc.so.6'
+# 7    0x08398c82: '<unknown (@0x8398c82)>'
+# 8    0x0839b9b8: '<unknown (@0x839b9b8)>'
+# 9    0xf779440b: '<unknown (@0xf779440b)>'
+# 10   0xf75bad59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 11   0xf75b2196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 12   0xf75b2251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 13   0x0839878e: '<unknown (@0x839878e)>'
+# 14   0x0839af83: '<unknown (@0x839af83)>'
+# 15   0x0805e7c6: '<unknown (@0x805e7c6)>'
+# End of Stack Trace
+
+
+# Current time Mon Sep 10 15:32:10 2012
+# ModelSim Stack Trace
+# Program = vsim
+# Id = "10.0d"
+# Version = "2012.01"
+# Date = "Jan 18 2012"
+# Platform = linuxpe
+# 0    0xf7798430: '<unknown (@0xf7798430)>'
+# 1    0xf75bed59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 2    0xf75b6196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 3    0xf75b6251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 4    0x0839878e: '<unknown (@0x839878e)>'
+# 5    0x0839af83: '<unknown (@0x839af83)>'
+# 6    0x0805e7c6: '<unknown (@0x805e7c6)>'
+# End of Stack Trace
+
+
+# Current time Mon Sep 10 15:32:10 2012
+# ModelSim Stack Trace
+# Program = vsim
+# Id = "10.0d"
+# Version = "2012.01"
+# Date = "Jan 18 2012"
+# Platform = linuxpe
+# 0    0xf7798430: '<unknown (@0xf7798430)>'
+# 1    0xf75bed59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 2    0xf75b6196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 3    0xf75b6251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 4    0x08398879: '<unknown (@0x8398879)>'
+# 5    0xf75c051a: '_secure_getenv + 0x10a' in '/lib32/libc.so.6'
+# 6    0xf75c057a: 'exit + 0x2a' in '/lib32/libc.so.6'
+# 7    0x08398c82: '<unknown (@0x8398c82)>'
+# 8    0x0839b9b8: '<unknown (@0x839b9b8)>'
+# 9    0xf779840b: '<unknown (@0xf779840b)>'
+# 10   0xf75bed59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 11   0xf75b6196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 12   0xf75b6251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 13   0x0839878e: '<unknown (@0x839878e)>'
+# 14   0x0839af83: '<unknown (@0x839af83)>'
+# 15   0x0805e7c6: '<unknown (@0x805e7c6)>'
+# End of Stack Trace
+
+
+# Current time Mon Sep 10 15:32:55 2012
+# ModelSim Stack Trace
+# Program = vsim
+# Id = "10.0d"
+# Version = "2012.01"
+# Date = "Jan 18 2012"
+# Platform = linuxpe
+# 0    0xf76fd430: '<unknown (@0xf76fd430)>'
+# 1    0xf7523d59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 2    0xf751b196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 3    0xf751b251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 4    0x0839878e: '<unknown (@0x839878e)>'
+# 5    0x0839af83: '<unknown (@0x839af83)>'
+# 6    0x0805e7c6: '<unknown (@0x805e7c6)>'
+# End of Stack Trace
+
+
+# Current time Mon Sep 10 15:32:55 2012
+# ModelSim Stack Trace
+# Program = vsim
+# Id = "10.0d"
+# Version = "2012.01"
+# Date = "Jan 18 2012"
+# Platform = linuxpe
+# 0    0xf76fd430: '<unknown (@0xf76fd430)>'
+# 1    0xf7523d59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 2    0xf751b196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 3    0xf751b251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 4    0x08398879: '<unknown (@0x8398879)>'
+# 5    0xf752551a: '_secure_getenv + 0x10a' in '/lib32/libc.so.6'
+# 6    0xf752557a: 'exit + 0x2a' in '/lib32/libc.so.6'
+# 7    0x08398c82: '<unknown (@0x8398c82)>'
+# 8    0x0839b9b8: '<unknown (@0x839b9b8)>'
+# 9    0xf76fd40b: '<unknown (@0xf76fd40b)>'
+# 10   0xf7523d59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 11   0xf751b196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 12   0xf751b251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 13   0x0839878e: '<unknown (@0x839878e)>'
+# 14   0x0839af83: '<unknown (@0x839af83)>'
+# 15   0x0805e7c6: '<unknown (@0x805e7c6)>'
+# End of Stack Trace
+
+
+# Current time Mon Sep 10 15:34:58 2012
+# ModelSim Stack Trace
+# Program = vsim
+# Id = "10.0d"
+# Version = "2012.01"
+# Date = "Jan 18 2012"
+# Platform = linuxpe
+# 0    0xf774b430: '<unknown (@0xf774b430)>'
+# 1    0xf7571d59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 2    0xf7569196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 3    0xf7569251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 4    0x0839878e: '<unknown (@0x839878e)>'
+# 5    0x0839af83: '<unknown (@0x839af83)>'
+# 6    0x0805e7c6: '<unknown (@0x805e7c6)>'
+# End of Stack Trace
+
+
+# Current time Mon Sep 10 15:34:59 2012
+# ModelSim Stack Trace
+# Program = vsim
+# Id = "10.0d"
+# Version = "2012.01"
+# Date = "Jan 18 2012"
+# Platform = linuxpe
+# 0    0xf774b430: '<unknown (@0xf774b430)>'
+# 1    0xf7571d59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 2    0xf7569196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 3    0xf7569251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 4    0x08398879: '<unknown (@0x8398879)>'
+# 5    0xf757351a: '_secure_getenv + 0x10a' in '/lib32/libc.so.6'
+# 6    0xf757357a: 'exit + 0x2a' in '/lib32/libc.so.6'
+# 7    0x08398c82: '<unknown (@0x8398c82)>'
+# 8    0x0839b9b8: '<unknown (@0x839b9b8)>'
+# 9    0xf774b40b: '<unknown (@0xf774b40b)>'
+# 10   0xf7571d59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 11   0xf7569196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 12   0xf7569251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 13   0x0839878e: '<unknown (@0x839878e)>'
+# 14   0x0839af83: '<unknown (@0x839af83)>'
+# 15   0x0805e7c6: '<unknown (@0x805e7c6)>'
+# End of Stack Trace
+
+
+# Current time Mon Sep 10 15:35:43 2012
+# ModelSim Stack Trace
+# Program = vsim
+# Id = "10.0d"
+# Version = "2012.01"
+# Date = "Jan 18 2012"
+# Platform = linuxpe
+# 0    0xf76fe430: '<unknown (@0xf76fe430)>'
+# 1    0xf7524d59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 2    0xf751c196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 3    0xf751c251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 4    0x0839878e: '<unknown (@0x839878e)>'
+# 5    0x0839af83: '<unknown (@0x839af83)>'
+# 6    0x0805e7c6: '<unknown (@0x805e7c6)>'
+# End of Stack Trace
+
+
+# Current time Mon Sep 10 15:35:43 2012
+# ModelSim Stack Trace
+# Program = vsim
+# Id = "10.0d"
+# Version = "2012.01"
+# Date = "Jan 18 2012"
+# Platform = linuxpe
+# 0    0xf76fe430: '<unknown (@0xf76fe430)>'
+# 1    0xf7524d59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 2    0xf751c196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 3    0xf751c251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 4    0x08398879: '<unknown (@0x8398879)>'
+# 5    0xf752651a: '_secure_getenv + 0x10a' in '/lib32/libc.so.6'
+# 6    0xf752657a: 'exit + 0x2a' in '/lib32/libc.so.6'
+# 7    0x08398c82: '<unknown (@0x8398c82)>'
+# 8    0x0839b9b8: '<unknown (@0x839b9b8)>'
+# 9    0xf76fe40b: '<unknown (@0xf76fe40b)>'
+# 10   0xf7524d59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 11   0xf751c196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 12   0xf751c251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 13   0x0839878e: '<unknown (@0x839878e)>'
+# 14   0x0839af83: '<unknown (@0x839af83)>'
+# 15   0x0805e7c6: '<unknown (@0x805e7c6)>'
+# End of Stack Trace
+
+
+# Current time Mon Sep 10 15:36:44 2012
+# ModelSim Stack Trace
+# Program = vsim
+# Id = "10.0d"
+# Version = "2012.01"
+# Date = "Jan 18 2012"
+# Platform = linuxpe
+# 0    0xf776c430: '<unknown (@0xf776c430)>'
+# 1    0xf7592d59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 2    0xf758a196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 3    0xf758a251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 4    0x0839878e: '<unknown (@0x839878e)>'
+# 5    0x0839af83: '<unknown (@0x839af83)>'
+# 6    0x0805e7c6: '<unknown (@0x805e7c6)>'
+# End of Stack Trace
+
+
+# Current time Mon Sep 10 15:36:44 2012
+# ModelSim Stack Trace
+# Program = vsim
+# Id = "10.0d"
+# Version = "2012.01"
+# Date = "Jan 18 2012"
+# Platform = linuxpe
+# 0    0xf776c430: '<unknown (@0xf776c430)>'
+# 1    0xf7592d59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 2    0xf758a196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 3    0xf758a251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 4    0x08398879: '<unknown (@0x8398879)>'
+# 5    0xf759451a: '_secure_getenv + 0x10a' in '/lib32/libc.so.6'
+# 6    0xf759457a: 'exit + 0x2a' in '/lib32/libc.so.6'
+# 7    0x08398c82: '<unknown (@0x8398c82)>'
+# 8    0x0839b9b8: '<unknown (@0x839b9b8)>'
+# 9    0xf776c40b: '<unknown (@0xf776c40b)>'
+# 10   0xf7592d59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 11   0xf758a196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 12   0xf758a251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 13   0x0839878e: '<unknown (@0x839878e)>'
+# 14   0x0839af83: '<unknown (@0x839af83)>'
+# 15   0x0805e7c6: '<unknown (@0x805e7c6)>'
+# End of Stack Trace
+
+
+# Current time Mon Sep 10 15:40:19 2012
+# ModelSim Stack Trace
+# Program = vsim
+# Id = "10.0d"
+# Version = "2012.01"
+# Date = "Jan 18 2012"
+# Platform = linuxpe
+# 0    0xf770e430: '<unknown (@0xf770e430)>'
+# 1    0xf7534d59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 2    0xf752c196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 3    0xf752c251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 4    0x0839878e: '<unknown (@0x839878e)>'
+# 5    0x0839af83: '<unknown (@0x839af83)>'
+# 6    0x0805e7c6: '<unknown (@0x805e7c6)>'
+# End of Stack Trace
+
+
+# Current time Mon Sep 10 15:40:19 2012
+# ModelSim Stack Trace
+# Program = vsim
+# Id = "10.0d"
+# Version = "2012.01"
+# Date = "Jan 18 2012"
+# Platform = linuxpe
+# 0    0xf770e430: '<unknown (@0xf770e430)>'
+# 1    0xf7534d59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 2    0xf752c196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 3    0xf752c251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 4    0x08398879: '<unknown (@0x8398879)>'
+# 5    0xf753651a: '_secure_getenv + 0x10a' in '/lib32/libc.so.6'
+# 6    0xf753657a: 'exit + 0x2a' in '/lib32/libc.so.6'
+# 7    0x08398c82: '<unknown (@0x8398c82)>'
+# 8    0x0839b9b8: '<unknown (@0x839b9b8)>'
+# 9    0xf770e40b: '<unknown (@0xf770e40b)>'
+# 10   0xf7534d59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 11   0xf752c196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 12   0xf752c251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 13   0x0839878e: '<unknown (@0x839878e)>'
+# 14   0x0839af83: '<unknown (@0x839af83)>'
+# 15   0x0805e7c6: '<unknown (@0x805e7c6)>'
+# End of Stack Trace
+
+
+# Current time Mon Sep 10 15:41:35 2012
+# ModelSim Stack Trace
+# Program = vsim
+# Id = "10.0d"
+# Version = "2012.01"
+# Date = "Jan 18 2012"
+# Platform = linuxpe
+# 0    0xf772b430: '<unknown (@0xf772b430)>'
+# 1    0xf7551d59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 2    0xf7549196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 3    0xf7549251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 4    0x0839878e: '<unknown (@0x839878e)>'
+# 5    0x0839af83: '<unknown (@0x839af83)>'
+# 6    0x0805e7c6: '<unknown (@0x805e7c6)>'
+# End of Stack Trace
+
+
+# Current time Mon Sep 10 15:41:35 2012
+# ModelSim Stack Trace
+# Program = vsim
+# Id = "10.0d"
+# Version = "2012.01"
+# Date = "Jan 18 2012"
+# Platform = linuxpe
+# 0    0xf772b430: '<unknown (@0xf772b430)>'
+# 1    0xf7551d59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 2    0xf7549196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 3    0xf7549251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 4    0x08398879: '<unknown (@0x8398879)>'
+# 5    0xf755351a: '_secure_getenv + 0x10a' in '/lib32/libc.so.6'
+# 6    0xf755357a: 'exit + 0x2a' in '/lib32/libc.so.6'
+# 7    0x08398c82: '<unknown (@0x8398c82)>'
+# 8    0x0839b9b8: '<unknown (@0x839b9b8)>'
+# 9    0xf772b40b: '<unknown (@0xf772b40b)>'
+# 10   0xf7551d59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 11   0xf7549196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 12   0xf7549251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 13   0x0839878e: '<unknown (@0x839878e)>'
+# 14   0x0839af83: '<unknown (@0x839af83)>'
+# 15   0x0805e7c6: '<unknown (@0x805e7c6)>'
+# End of Stack Trace
+
+
+# Current time Mon Sep 10 15:42:34 2012
+# ModelSim Stack Trace
+# Program = vsim
+# Id = "10.0d"
+# Version = "2012.01"
+# Date = "Jan 18 2012"
+# Platform = linuxpe
+# 0    0xf77a9430: '<unknown (@0xf77a9430)>'
+# 1    0xf75cfd59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 2    0xf75c7196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 3    0xf75c7251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 4    0x0839878e: '<unknown (@0x839878e)>'
+# 5    0x0839af83: '<unknown (@0x839af83)>'
+# 6    0x0805e7c6: '<unknown (@0x805e7c6)>'
+# End of Stack Trace
+
+
+# Current time Mon Sep 10 15:42:34 2012
+# ModelSim Stack Trace
+# Program = vsim
+# Id = "10.0d"
+# Version = "2012.01"
+# Date = "Jan 18 2012"
+# Platform = linuxpe
+# 0    0xf77a9430: '<unknown (@0xf77a9430)>'
+# 1    0xf75cfd59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 2    0xf75c7196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 3    0xf75c7251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 4    0x08398879: '<unknown (@0x8398879)>'
+# 5    0xf75d151a: '_secure_getenv + 0x10a' in '/lib32/libc.so.6'
+# 6    0xf75d157a: 'exit + 0x2a' in '/lib32/libc.so.6'
+# 7    0x08398c82: '<unknown (@0x8398c82)>'
+# 8    0x0839b9b8: '<unknown (@0x839b9b8)>'
+# 9    0xf77a940b: '<unknown (@0xf77a940b)>'
+# 10   0xf75cfd59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 11   0xf75c7196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 12   0xf75c7251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 13   0x0839878e: '<unknown (@0x839878e)>'
+# 14   0x0839af83: '<unknown (@0x839af83)>'
+# 15   0x0805e7c6: '<unknown (@0x805e7c6)>'
+# End of Stack Trace
+
+
+# Current time Mon Sep 10 15:44:37 2012
+# ModelSim Stack Trace
+# Program = vsim
+# Id = "10.0d"
+# Version = "2012.01"
+# Date = "Jan 18 2012"
+# Platform = linuxpe
+# 0    0xf7742430: '<unknown (@0xf7742430)>'
+# 1    0xf7568d59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 2    0xf7560196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 3    0xf7560251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 4    0x0839878e: '<unknown (@0x839878e)>'
+# 5    0x0839af83: '<unknown (@0x839af83)>'
+# 6    0x0805e7c6: '<unknown (@0x805e7c6)>'
+# End of Stack Trace
+
+
+# Current time Mon Sep 10 15:44:37 2012
+# ModelSim Stack Trace
+# Program = vsim
+# Id = "10.0d"
+# Version = "2012.01"
+# Date = "Jan 18 2012"
+# Platform = linuxpe
+# 0    0xf7742430: '<unknown (@0xf7742430)>'
+# 1    0xf7568d59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 2    0xf7560196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 3    0xf7560251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 4    0x08398879: '<unknown (@0x8398879)>'
+# 5    0xf756a51a: '_secure_getenv + 0x10a' in '/lib32/libc.so.6'
+# 6    0xf756a57a: 'exit + 0x2a' in '/lib32/libc.so.6'
+# 7    0x08398c82: '<unknown (@0x8398c82)>'
+# 8    0x0839b9b8: '<unknown (@0x839b9b8)>'
+# 9    0xf774240b: '<unknown (@0xf774240b)>'
+# 10   0xf7568d59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 11   0xf7560196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 12   0xf7560251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 13   0x0839878e: '<unknown (@0x839878e)>'
+# 14   0x0839af83: '<unknown (@0x839af83)>'
+# 15   0x0805e7c6: '<unknown (@0x805e7c6)>'
+# End of Stack Trace
+
+
+# Current time Mon Sep 10 15:47:19 2012
+# ModelSim Stack Trace
+# Program = vsim
+# Id = "10.0d"
+# Version = "2012.01"
+# Date = "Jan 18 2012"
+# Platform = linuxpe
+# 0    0xf773b430: '<unknown (@0xf773b430)>'
+# 1    0xf7561d59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 2    0xf7559196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 3    0xf7559251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 4    0x0839878e: '<unknown (@0x839878e)>'
+# 5    0x0839af83: '<unknown (@0x839af83)>'
+# 6    0x0805e7c6: '<unknown (@0x805e7c6)>'
+# End of Stack Trace
+
+
+# Current time Mon Sep 10 15:47:19 2012
+# ModelSim Stack Trace
+# Program = vsim
+# Id = "10.0d"
+# Version = "2012.01"
+# Date = "Jan 18 2012"
+# Platform = linuxpe
+# 0    0xf773b430: '<unknown (@0xf773b430)>'
+# 1    0xf7561d59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 2    0xf7559196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 3    0xf7559251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 4    0x08398879: '<unknown (@0x8398879)>'
+# 5    0xf756351a: '_secure_getenv + 0x10a' in '/lib32/libc.so.6'
+# 6    0xf756357a: 'exit + 0x2a' in '/lib32/libc.so.6'
+# 7    0x08398c82: '<unknown (@0x8398c82)>'
+# 8    0x0839b9b8: '<unknown (@0x839b9b8)>'
+# 9    0xf773b40b: '<unknown (@0xf773b40b)>'
+# 10   0xf7561d59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 11   0xf7559196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 12   0xf7559251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 13   0x0839878e: '<unknown (@0x839878e)>'
+# 14   0x0839af83: '<unknown (@0x839af83)>'
+# 15   0x0805e7c6: '<unknown (@0x805e7c6)>'
+# End of Stack Trace
+
+
+# Current time Mon Sep 10 15:50:55 2012
+# ModelSim Stack Trace
+# Program = vsim
+# Id = "10.0d"
+# Version = "2012.01"
+# Date = "Jan 18 2012"
+# Platform = linuxpe
+# 0    0xf76f9430: '<unknown (@0xf76f9430)>'
+# 1    0xf751fd59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 2    0xf7517196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 3    0xf7517251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 4    0x0839878e: '<unknown (@0x839878e)>'
+# 5    0x0839af83: '<unknown (@0x839af83)>'
+# 6    0x0805e7c6: '<unknown (@0x805e7c6)>'
+# End of Stack Trace
+
+
+# Current time Mon Sep 10 15:50:55 2012
+# ModelSim Stack Trace
+# Program = vsim
+# Id = "10.0d"
+# Version = "2012.01"
+# Date = "Jan 18 2012"
+# Platform = linuxpe
+# 0    0xf76f9430: '<unknown (@0xf76f9430)>'
+# 1    0xf751fd59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 2    0xf7517196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 3    0xf7517251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 4    0x08398879: '<unknown (@0x8398879)>'
+# 5    0xf752151a: '_secure_getenv + 0x10a' in '/lib32/libc.so.6'
+# 6    0xf752157a: 'exit + 0x2a' in '/lib32/libc.so.6'
+# 7    0x08398c82: '<unknown (@0x8398c82)>'
+# 8    0x0839b9b8: '<unknown (@0x839b9b8)>'
+# 9    0xf76f940b: '<unknown (@0xf76f940b)>'
+# 10   0xf751fd59: 'abort + 0x179' in '/lib32/libc.so.6'
+# 11   0xf7517196: '_uselocale + 0x386' in '/lib32/libc.so.6'
+# 12   0xf7517251: '_assert_fail + 0x51' in '/lib32/libc.so.6'
+# 13   0x0839878e: '<unknown (@0x839878e)>'
+# 14   0x0839af83: '<unknown (@0x839af83)>'
+# 15   0x0805e7c6: '<unknown (@0x805e7c6)>'
+# End of Stack Trace
+
+

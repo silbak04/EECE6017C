@@ -1,0 +1,10 @@
+transcript on
+if {[file exists rtl_work]} {
+	vdel -lib rtl_work -all
+}
+vlib rtl_work
+vmap work rtl_work
+
+vlog -vlog01compat -work work +incdir+/home/pwner/emb_sys/lab_1_p_3/ms_d_latch {/home/pwner/emb_sys/lab_1_p_3/ms_d_latch/top.v}
+vlog -vlog01compat -work work +incdir+/home/pwner/emb_sys/lab_1_p_3/ms_d_latch {/home/pwner/emb_sys/lab_1_p_3/ms_d_latch/d_latch.v}
+
