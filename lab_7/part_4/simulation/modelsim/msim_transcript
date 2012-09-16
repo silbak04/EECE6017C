@@ -1,0 +1,108 @@
+# do top_run_msim_rtl_verilog.do 
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Copying /opt/altera/modelsim_ase/linuxaloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied /opt/altera/modelsim_ase/linuxaloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vlog -vlog01compat -work work +incdir+/home/pwner/emb_sys/lab_7/part_4 {/home/pwner/emb_sys/lab_7/part_4/top.v}
+# Model Technology ModelSim ALTERA vlog 10.0d Compiler 2012.01 Jan 18 2012
+# -- Compiling module top
+# ** Warning: /home/pwner/emb_sys/lab_7/part_4/top.v(100): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+# 
+# Top level modules:
+# 	top
+# 
+# vlog -vlog01compat -work work +incdir+/home/pwner/emb_sys/lab_7/part_4 {/home/pwner/emb_sys/lab_7/part_4/morse_code_tb.v}
+# Model Technology ModelSim ALTERA vlog 10.0d Compiler 2012.01 Jan 18 2012
+# -- Compiling module morse_code_tb
+# 
+# Top level modules:
+# 	morse_code_tb
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneii_ver -L rtl_work -L work -voptargs="+acc"  morse_code_tb
+# vsim -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneii_ver -L rtl_work -L work -voptargs=\"+acc\" -t 1ps morse_code_tb 
+# Loading work.morse_code_tb
+# Loading work.top
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+#                    0 << starting simulation >> 
+#                    0 transmit=0, led=0, letter=xxxx 
+#                  100 transmit=1, led=0, letter=0000 
+#                  101 transmit=1, led=1, letter=0000 
+#                  102 transmit=0, led=1, letter=0000 
+#                  103 transmit=0, led=0, letter=0000 
+#                  105 transmit=0, led=1, letter=0000 
+#                  111 transmit=0, led=0, letter=0000 
+#                  152 transmit=1, led=0, letter=0001 
+#                  153 transmit=1, led=1, letter=0001 
+#                  154 transmit=0, led=1, letter=0001 
+#                  159 transmit=0, led=0, letter=0001 
+#                  161 transmit=0, led=1, letter=0001 
+#                  163 transmit=0, led=0, letter=0001 
+#                  165 transmit=0, led=1, letter=0001 
+#                  167 transmit=0, led=0, letter=0001 
+#                  169 transmit=0, led=1, letter=0001 
+#                  171 transmit=0, led=0, letter=0001 
+#                  204 transmit=1, led=0, letter=0010 
+#                  205 transmit=1, led=1, letter=0010 
+#                  206 transmit=0, led=1, letter=0010 
+#                  211 transmit=0, led=0, letter=0010 
+#                  213 transmit=0, led=1, letter=0010 
+#                  215 transmit=0, led=0, letter=0010 
+#                  217 transmit=0, led=1, letter=0010 
+#                  223 transmit=0, led=0, letter=0010 
+#                  225 transmit=0, led=1, letter=0010 
+#                  227 transmit=0, led=0, letter=0010 
+#                  256 transmit=1, led=0, letter=0011 
+#                  257 transmit=1, led=1, letter=0011 
+#                  258 transmit=0, led=1, letter=0011 
+#                  263 transmit=0, led=0, letter=0011 
+#                  265 transmit=0, led=1, letter=0011 
+#                  267 transmit=0, led=0, letter=0011 
+#                  269 transmit=0, led=1, letter=0011 
+#                  271 transmit=0, led=0, letter=0011 
+#                  308 transmit=1, led=0, letter=0100 
+#                  309 transmit=1, led=1, letter=0100 
+#                  310 transmit=0, led=1, letter=0100 
+#                  311 transmit=0, led=0, letter=0100 
+#                  360 transmit=1, led=0, letter=0101 
+#                  361 transmit=1, led=1, letter=0101 
+#                  362 transmit=0, led=1, letter=0101 
+#                  363 transmit=0, led=0, letter=0101 
+#                  365 transmit=0, led=1, letter=0101 
+#                  367 transmit=0, led=0, letter=0101 
+#                  369 transmit=0, led=1, letter=0101 
+#                  375 transmit=0, led=0, letter=0101 
+#                  377 transmit=0, led=1, letter=0101 
+#                  379 transmit=0, led=0, letter=0101 
+#                  412 transmit=1, led=0, letter=0110 
+#                  413 transmit=1, led=1, letter=0110 
+#                  414 transmit=0, led=1, letter=0110 
+#                  419 transmit=0, led=0, letter=0110 
+#                  421 transmit=0, led=1, letter=0110 
+#                  427 transmit=0, led=0, letter=0110 
+#                  429 transmit=0, led=1, letter=0110 
+#                  431 transmit=0, led=0, letter=0110 
+#                  464 transmit=1, led=0, letter=0111 
+#                  465 transmit=1, led=1, letter=0111 
+#                  466 transmit=0, led=1, letter=0111 
+#                  467 transmit=0, led=0, letter=0111 
+#                  469 transmit=0, led=1, letter=0111 
+#                  471 transmit=0, led=0, letter=0111 
+#                  473 transmit=0, led=1, letter=0111 
+#                  475 transmit=0, led=0, letter=0111 
+#                  477 transmit=0, led=1, letter=0111 
+#                  479 transmit=0, led=0, letter=0111 
+# Break in Module morse_code_tb at /home/pwner/emb_sys/lab_7/part_4/morse_code_tb.v line 95
+# Simulation Breakpoint: Break in Module morse_code_tb at /home/pwner/emb_sys/lab_7/part_4/morse_code_tb.v line 95
+# MACRO ./top_run_msim_rtl_verilog.do PAUSED at line 17

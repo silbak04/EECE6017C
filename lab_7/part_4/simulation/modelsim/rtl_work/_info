@@ -1,0 +1,43 @@
+m255
+K3
+13
+cModel Technology
+Z0 d/home/pwner/emb_sys/lab_7/part_4/simulation/modelsim
+vmorse_code_tb
+!s100 96e7A7]iUQC2aV?Re@gXA1
+IeQ;ToJnf]2d^kL>if_<681
+Vo<YNT8nI@<eONW2j1h]X>2
+Z1 d/home/pwner/emb_sys/lab_7/part_4/simulation/modelsim
+w1347610615
+8/home/pwner/emb_sys/lab_7/part_4/morse_code_tb.v
+F/home/pwner/emb_sys/lab_7/part_4/morse_code_tb.v
+L0 3
+Z2 OV;L;10.0d;49
+r1
+!s85 0
+31
+!s108 1347611186.373352
+!s107 /home/pwner/emb_sys/lab_7/part_4/morse_code_tb.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/pwner/emb_sys/lab_7/part_4|/home/pwner/emb_sys/lab_7/part_4/morse_code_tb.v|
+!s101 -O0
+Z3 o-vlog01compat -work work -O0
+Z4 !s92 -vlog01compat -work work +incdir+/home/pwner/emb_sys/lab_7/part_4 -O0
+vtop
+IKXE_`hJ03L=_KmL<L0V8]1
+VHjFnG5]H21SiPRV`IU0KL1
+R1
+w1347611164
+8/home/pwner/emb_sys/lab_7/part_4/top.v
+F/home/pwner/emb_sys/lab_7/part_4/top.v
+L0 23
+R2
+r1
+31
+R3
+!s100 :ZL=ok4fQIMz6]<g;iAj72
+!s85 0
+!s108 1347611186.362252
+!s107 /home/pwner/emb_sys/lab_7/part_4/top.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+/home/pwner/emb_sys/lab_7/part_4|/home/pwner/emb_sys/lab_7/part_4/top.v|
+!s101 -O0
+R4

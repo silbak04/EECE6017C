@@ -1,0 +1,80 @@
+# do fsm_run_msim_rtl_verilog.do 
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Copying /opt/altera/modelsim_ase/linuxaloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied /opt/altera/modelsim_ase/linuxaloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vlog -vlog01compat -work work +incdir+/home/pwner/emb_sys/lab_7_p1/finite_state {/home/pwner/emb_sys/lab_7_p1/finite_state/fsm.v}
+# Model Technology ModelSim ALTERA vlog 10.0d Compiler 2012.01 Jan 18 2012
+# -- Compiling module fsm
+# 
+# Top level modules:
+# 	fsm
+# vlog -vlog01compat -work work +incdir+/home/pwner/emb_sys/lab_7_p1/finite_state {/home/pwner/emb_sys/lab_7_p1/finite_state/d_fflop.v}
+# Model Technology ModelSim ALTERA vlog 10.0d Compiler 2012.01 Jan 18 2012
+# -- Compiling module d_fflop
+# 
+# Top level modules:
+# 	d_fflop
+# 
+# vlog -vlog01compat -work work +incdir+/home/pwner/emb_sys/lab_7_p1/finite_state {/home/pwner/emb_sys/lab_7_p1/finite_state/fsm_tb.v}
+# Model Technology ModelSim ALTERA vlog 10.0d Compiler 2012.01 Jan 18 2012
+# -- Compiling module fsm_tb
+# 
+# Top level modules:
+# 	fsm_tb
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneii_ver -L rtl_work -L work -voptargs="+acc"  fsm_tb
+# vsim -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneii_ver -L rtl_work -L work -voptargs=\"+acc\" -t 1ps fsm_tb 
+# Loading work.fsm_tb
+# Loading work.fsm
+# Loading work.d_fflop
+# ** Warning: (vsim-3015) /home/pwner/emb_sys/lab_7_p1/finite_state/fsm.v(23): [PCDPC] - Port size (1 or 1) does not match connection size (32) for port 'rst'. The port definition is at: /home/pwner/emb_sys/lab_7_p1/finite_state/d_fflop.v(4).
+#         Region: /fsm_tb/dut/a
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+#                    0 << starting simulation >> 
+#                    0 w=x, z=0 
+#                  100 w=0, z=0 
+#                  200 w=1, z=0 
+#                  240 w=0, z=0 
+#                  380 w=0, z=1 
+#                  390 w=1, z=1 
+#                  420 w=1, z=0 
+#                  540 w=1, z=1 
+# Break in Module fsm_tb at /home/pwner/emb_sys/lab_7_p1/finite_state/fsm_tb.v line 63
+# Simulation Breakpoint: Break in Module fsm_tb at /home/pwner/emb_sys/lab_7_p1/finite_state/fsm_tb.v line 63
+# MACRO ./fsm_run_msim_rtl_verilog.do PAUSED at line 18
+add wave -position end  sim:/fsm_tb/dut/a_out
+add wave -position end  sim:/fsm_tb/dut/b_out
+add wave -position end  sim:/fsm_tb/dut/c_out
+add wave -position end  sim:/fsm_tb/dut/d_out
+add wave -position end  sim:/fsm_tb/dut/e_out
+add wave -position end  sim:/fsm_tb/dut/f_out
+add wave -position end  sim:/fsm_tb/dut/g_out
+add wave -position end  sim:/fsm_tb/dut/h_out
+add wave -position end  sim:/fsm_tb/dut/i_out
+restart
+# ** Warning: (vsim-3015) /home/pwner/emb_sys/lab_7_p1/finite_state/fsm.v(23): [PCDPC] - Port size (1 or 1) does not match connection size (32) for port 'rst'. The port definition is at: /home/pwner/emb_sys/lab_7_p1/finite_state/d_fflop.v(4).
+#         Region: /fsm_tb/dut/a
+run -all
+#                    0 << starting simulation >> 
+#                    0 w=x, z=0 
+#                  100 w=0, z=0 
+#                  200 w=1, z=0 
+#                  240 w=0, z=0 
+#                  380 w=0, z=1 
+#                  390 w=1, z=1 
+#                  420 w=1, z=0 
+#                  540 w=1, z=1 
+# Break in Module fsm_tb at /home/pwner/emb_sys/lab_7_p1/finite_state/fsm_tb.v line 63

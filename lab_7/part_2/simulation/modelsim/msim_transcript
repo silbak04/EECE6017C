@@ -1,0 +1,68 @@
+# do fsm_run_msim_rtl_verilog.do 
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Copying /opt/altera/modelsim_ase/linuxaloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied /opt/altera/modelsim_ase/linuxaloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vlog -vlog01compat -work work +incdir+/home/pwner/emb_sys/lab_7_p2/finite_state {/home/pwner/emb_sys/lab_7_p2/finite_state/fsm.v}
+# Model Technology ModelSim ALTERA vlog 10.0d Compiler 2012.01 Jan 18 2012
+# -- Compiling module fsm
+# 
+# Top level modules:
+# 	fsm
+# 
+# vlog -vlog01compat -work work +incdir+/home/pwner/emb_sys/lab_7_p2/finite_state {/home/pwner/emb_sys/lab_7_p2/finite_state/fsm_tb.v}
+# Model Technology ModelSim ALTERA vlog 10.0d Compiler 2012.01 Jan 18 2012
+# -- Compiling module fsm_tb
+# 
+# Top level modules:
+# 	fsm_tb
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneii_ver -L rtl_work -L work -voptargs="+acc"  fsm_tb
+# vsim -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneii_ver -L rtl_work -L work -voptargs=\"+acc\" -t 1ps fsm_tb 
+# Loading work.fsm_tb
+# Loading work.fsm
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+#                    0 << starting simulation >> 
+#                    0 w=x, z=x 
+#                   30 w=0, z=x 
+#                   60 w=0, z=0 
+#                  420 w=1, z=0 
+#                  570 w=0, z=0 
+#                 1020 w=0, z=1 
+#                 1200 w=1, z=1 
+#                 1260 w=1, z=0 
+#                 1620 w=1, z=1 
+# Break in Module fsm_tb at /home/pwner/emb_sys/lab_7_p2/finite_state/fsm_tb.v line 63
+# Simulation Breakpoint: Break in Module fsm_tb at /home/pwner/emb_sys/lab_7_p2/finite_state/fsm_tb.v line 63
+# MACRO ./fsm_run_msim_rtl_verilog.do PAUSED at line 17
+add wave sim:/fsm_tb/dut/*
+restart
+run -all
+#                    0 << starting simulation >> 
+#                    0 w=x, z=x 
+#                   30 w=0, z=x 
+#                   60 w=0, z=0 
+#                  420 w=1, z=0 
+#                  570 w=0, z=0 
+#                 1020 w=0, z=1 
+#                 1200 w=1, z=1 
+#                 1260 w=1, z=0 
+#                 1620 w=1, z=1 
+# Break in Module fsm_tb at /home/pwner/emb_sys/lab_7_p2/finite_state/fsm_tb.v line 63
+run
+#                 1950 w=0, z=1 
+#                 1980 w=0, z=0 
+run
+run
