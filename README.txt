@@ -5,6 +5,7 @@
 # Embedded Systems                                                                  #
 # Altera Lab Exercises                                                              #
 #                                                                                   #
+# DE1 Development and Education Board                                               #
 # http://www.altera.com/education/univ/materials/digital_logic/labs/unv-labs.html   #
 #                                                                                   #
 #####################################################################################
