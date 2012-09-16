@@ -1,3 +1,0 @@
-# ignore files with extension un (~)
-.*
-!/.gitignore
