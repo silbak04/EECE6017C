@@ -93,7 +93,7 @@ module top (
                                                                 // morse_code [0001][0011] -- fourth bit position of B [1][3]
                     /* increment the bit position */
                     bit_pos <= bit_pos + 1'b0001;
-
+                end
             end
 
             /* stay on for 1 clock cycle

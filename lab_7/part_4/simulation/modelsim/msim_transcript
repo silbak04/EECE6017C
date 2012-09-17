@@ -12,7 +12,7 @@
 # vlog -vlog01compat -work work +incdir+/home/pwner/emb_sys/lab_7/part_4 {/home/pwner/emb_sys/lab_7/part_4/top.v}
 # Model Technology ModelSim ALTERA vlog 10.0d Compiler 2012.01 Jan 18 2012
 # -- Compiling module top
-# ** Warning: /home/pwner/emb_sys/lab_7/part_4/top.v(100): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+# ** Warning: /home/pwner/emb_sys/lab_7/part_4/top.v(95): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
 # 
 # Top level modules:
 # 	top
@@ -103,6 +103,6 @@
 #                  475 transmit=0, led=0, letter=0111 
 #                  477 transmit=0, led=1, letter=0111 
 #                  479 transmit=0, led=0, letter=0111 
-# Break in Module morse_code_tb at /home/pwner/emb_sys/lab_7/part_4/morse_code_tb.v line 95
-# Simulation Breakpoint: Break in Module morse_code_tb at /home/pwner/emb_sys/lab_7/part_4/morse_code_tb.v line 95
+# Break in Module morse_code_tb at /home/pwner/emb_sys/lab_7/part_4/morse_code_tb.v line 110
+# Simulation Breakpoint: Break in Module morse_code_tb at /home/pwner/emb_sys/lab_7/part_4/morse_code_tb.v line 110
 # MACRO ./top_run_msim_rtl_verilog.do PAUSED at line 17
