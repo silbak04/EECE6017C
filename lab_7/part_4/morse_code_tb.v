@@ -73,6 +73,7 @@ module morse_code_tb();
 
         #50 rst = 0;
 
+        /* load in each letter for testing */
         #50 letter = A;
         transmit = 1;
         #2 transmit = 0;
