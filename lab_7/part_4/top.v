@@ -49,7 +49,7 @@ module top (
     parameter dash = 1'b0;
 
     /* keep track of how many bits we have transmitted */
-    reg [3:0] bit_pos = 0;
+    reg [3:0] bit_pos = 4;
 
     /* Morse code look up table */
     /* 8 letters (A-H) of size 4 bits */
