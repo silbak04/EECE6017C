@@ -105,6 +105,7 @@ module morse_code_tb();
         #50 letter = H;
         transmit = 1;
         #2 transmit = 0;
+
         #50;
 
         /* finish simulation */
