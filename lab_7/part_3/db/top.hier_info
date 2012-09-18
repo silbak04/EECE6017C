@@ -1,11 +1,11 @@
 |top
 clk => clk.IN2
 rst => rst.IN2
-w => ~NO_FANOUT~
+w => w.IN2
 z <= z.DB_MAX_OUTPUT_PORT_TYPE
 
 
-|top|shift_register:zero
+|top|shift_register:shift_zb
 clk => shift_reg[0]~reg0.CLK
 clk => shift_reg[1]~reg0.CLK
 clk => shift_reg[2]~reg0.CLK
@@ -13,14 +13,14 @@ clk => shift_reg[3]~reg0.CLK
 rst => shift_reg.OUTPUTSELECT
 rst => shift_reg.OUTPUTSELECT
 rst => shift_reg.OUTPUTSELECT
-w => shift_reg[0]~reg0.DATAIN
+d => shift_reg[0]~reg0.DATAIN
 shift_reg[0] <= shift_reg[0]~reg0.DB_MAX_OUTPUT_PORT_TYPE
 shift_reg[1] <= shift_reg[1]~reg0.DB_MAX_OUTPUT_PORT_TYPE
 shift_reg[2] <= shift_reg[2]~reg0.DB_MAX_OUTPUT_PORT_TYPE
 shift_reg[3] <= shift_reg[3]~reg0.DB_MAX_OUTPUT_PORT_TYPE
 
 
-|top|shift_register:one
+|top|shift_register:shift_ob
 clk => shift_reg[0]~reg0.CLK
 clk => shift_reg[1]~reg0.CLK
 clk => shift_reg[2]~reg0.CLK
@@ -28,7 +28,7 @@ clk => shift_reg[3]~reg0.CLK
 rst => shift_reg.OUTPUTSELECT
 rst => shift_reg.OUTPUTSELECT
 rst => shift_reg.OUTPUTSELECT
-w => shift_reg[0]~reg0.DATAIN
+d => shift_reg[0]~reg0.DATAIN
 shift_reg[0] <= shift_reg[0]~reg0.DB_MAX_OUTPUT_PORT_TYPE
 shift_reg[1] <= shift_reg[1]~reg0.DB_MAX_OUTPUT_PORT_TYPE
 shift_reg[2] <= shift_reg[2]~reg0.DB_MAX_OUTPUT_PORT_TYPE
